@@ -27,3 +27,5 @@ Capaz de ouvir e de entender estrelas.”
 LINK DO POEMA: https://www.letras.mus.br/olavo-bilac/via-lactea/
 
 LINK FOTO VIA LÁCTEA: ![via lactea](https://user-images.githubusercontent.com/106343905/182236813-4e4d251e-cf2c-4ac7-b698-e41fa9e7c5ce.jpg)
+
+@liziane.bugalski@escola.pr.gov.br
